@@ -1,0 +1,21 @@
+body{
+    background: rgba(239, 244, 239, 0.133);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    min-width: 1024px;
+   
+}
+@import "menu";
+@import "field";
+@import "myform";
+
+
